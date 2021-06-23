@@ -1,31 +1,37 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: cgntv # Your GitHub username
+repo: upptime # Your GitHub repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Capen Tj.Makmur API
+    url: https://denus-capen-api.client.cognitive.id/
+  - name: Sewa Jas Jogja
+    url: https://sewajasjogja.com/
+  - name: Lava Tour Merapi Adventure
+    url: https://lavatourmerapi-adv.online/
+  - name: Mocca Thrift.
+    url: https://mocca.gq/
+  # - name: Universal Coconut
+    # url: https://www.universalcoconut.net/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: upptime.cognitive.id
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Uptime monitor and status page for Cognitive services
+  introMessage: This is a status page uses **real-time** data from our [GitHub repository](https://github.com/cgntv/upptime).
   navbar:
-    - title: Status
-      href: /
+    - title: Home
+      href: https://cognitive.id
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  scripts:
+    - src: https://ackee.cognitive.id/ackee.js
+  js: 'ackeeTracker.create("https://ackee.cognitive.id",{detailed:!0,ignoreLocalhost:!0,ignoreOwnVisits:!1}).record("296285c7-75c6-44ec-8df7-2504d59f512d");'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
