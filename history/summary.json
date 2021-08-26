@@ -42,9 +42,9 @@
     "url": "https://lavatourmerapi-adv.online/",
     "icon": "https://favicons.githubusercontent.com/lavatourmerapi-adv.online",
     "slug": "lava-tour-merapi-adventure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -54,6 +54,7 @@
     "timeMonth": 3003,
     "timeYear": 3202,
     "dailyMinutesDown": {
+      "2021-08-26": 0,
       "2021-08-07": 24,
       "2021-07-19": 18
     }
