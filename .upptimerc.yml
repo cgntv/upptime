@@ -10,8 +10,8 @@ sites:
     url: https://sewajasjogja.com/
   - name: Lava Tour Merapi Adventure
     url: https://lavatourmerapi-adv.online/
-  - name: Mocca Thrift.
-    url: https://mocca.gq/
+  # - name: Mocca Thrift.
+    # url: https://mocca.gq/
   # - name: Universal Coconut
     # url: https://www.universalcoconut.net/
 
