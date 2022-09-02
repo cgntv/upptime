@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/denus-capen-api.client.cognitive.id",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "33.20%",
+    "uptime": "33.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.55%",
+    "uptimeYear": "20.38%",
     "time": 621,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-09-01": 118,
+      "2022-09-02": 124,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -308,8 +309,7 @@
       "2021-11-11": 1440,
       "2021-11-10": 972,
       "2021-11-03": 1025,
-      "2021-11-02": 790,
-      "2021-09-02": 628
+      "2021-11-02": 790
     }
   },
   {
@@ -318,18 +318,19 @@
     "icon": "https://favicons.githubusercontent.com/sewajasjogja.com",
     "slug": "sewa-jas-jogja",
     "status": "down",
-    "uptime": "41.94%",
+    "uptime": "41.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.95%",
+    "uptimeYear": "30.78%",
     "time": 628,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-09-01": 118,
+      "2022-09-02": 124,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -582,8 +583,7 @@
       "2021-11-11": 1440,
       "2021-11-10": 972,
       "2021-11-03": 1024,
-      "2021-11-02": 790,
-      "2021-09-02": 596
+      "2021-11-02": 790
     }
   },
   {
@@ -592,18 +592,19 @@
     "icon": "https://favicons.githubusercontent.com/lavatourmerapi-adv.online",
     "slug": "lava-tour-merapi-adventure",
     "status": "down",
-    "uptime": "87.86%",
+    "uptime": "87.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.36%",
-    "uptimeMonth": "82.59%",
+    "uptimeWeek": "10.02%",
+    "uptimeMonth": "79.29%",
     "uptimeYear": "86.98%",
     "time": 1041,
     "timeDay": 0,
-    "timeWeek": 123,
-    "timeMonth": 447,
+    "timeWeek": 0,
+    "timeMonth": 442,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2022-09-01": 118,
+      "2022-09-02": 124,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -654,8 +655,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   }
 ]
