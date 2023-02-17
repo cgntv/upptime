@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "23.95%",
+    "uptime": "23.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2023-02-16": 83,
+      "2023-02-17": 85,
+      "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -374,8 +375,7 @@
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440
+      "2022-02-18": 1440
     }
   },
   {
@@ -384,18 +384,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "down",
-    "uptime": "30.25%",
+    "uptime": "30.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 614,
+    "time": 616,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-16": 83,
+      "2023-02-17": 85,
+      "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -758,8 +759,7 @@
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
-      "2022-02-18": 1440,
-      "2022-02-17": 1440
+      "2022-02-18": 1440
     }
   },
   {
@@ -768,14 +768,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "85.04%",
+    "uptime": "85.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.30%",
     "time": 449,
-    "timeDay": 540,
-    "timeWeek": 324,
+    "timeDay": 94,
+    "timeWeek": 315,
     "timeMonth": 403,
     "timeYear": 402,
     "dailyMinutesDown": {
