@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "19.91%",
+    "uptime": "19.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-18": 101,
+      "2023-06-19": 82,
+      "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
@@ -379,8 +380,7 @@
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
-      "2022-06-20": 1440,
-      "2022-06-19": 1440
+      "2022-06-20": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "41.37%",
+    "uptime": "41.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "32.19%",
+    "uptimeYear": "32.46%",
     "time": 4377,
-    "timeDay": 4594,
-    "timeWeek": 4791,
-    "timeMonth": 4892,
+    "timeDay": 4347,
+    "timeWeek": 4769,
+    "timeMonth": 4896,
     "timeYear": 4377,
     "dailyMinutesDown": {
       "2023-06-13": 85,
@@ -647,8 +647,7 @@
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
-      "2022-06-20": 1440,
-      "2022-06-19": 1440
+      "2022-06-20": 1440
     }
   },
   {
@@ -657,16 +656,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "87.56%",
+    "uptime": "87.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.31%",
-    "time": 413,
-    "timeDay": 627,
-    "timeWeek": 615,
-    "timeMonth": 522,
-    "timeYear": 458,
+    "time": 416,
+    "timeDay": 1240,
+    "timeWeek": 668,
+    "timeMonth": 547,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2022-10-08": 644,
       "2022-10-07": 1440,
