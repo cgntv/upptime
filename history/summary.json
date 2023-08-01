@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "18.80%",
+    "uptime": "18.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 74,
+      "2023-08-01": 80,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -379,8 +380,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "44.66%",
+    "uptime": "44.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.97%",
-    "time": 4277,
-    "timeDay": 4403,
-    "timeWeek": 4148,
-    "timeMonth": 3983,
-    "timeYear": 4277,
+    "uptimeYear": "44.24%",
+    "time": 4279,
+    "timeDay": 4468,
+    "timeWeek": 4175,
+    "timeMonth": 4005,
+    "timeYear": 4279,
     "dailyMinutesDown": {
       "2023-06-13": 85,
       "2023-05-25": 26,
@@ -604,8 +604,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   },
   {
@@ -614,16 +613,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "88.26%",
+    "uptime": "88.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.31%",
-    "time": 439,
-    "timeDay": 716,
-    "timeWeek": 507,
-    "timeMonth": 530,
-    "timeYear": 468,
+    "time": 437,
+    "timeDay": 158,
+    "timeWeek": 491,
+    "timeMonth": 488,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2022-10-08": 644,
       "2022-10-07": 1440,
