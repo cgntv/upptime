@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "18.75%",
+    "uptime": "18.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 70,
+      "2023-08-03": 72,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -379,8 +380,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "44.80%",
+    "uptime": "44.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.52%",
-    "time": 4279,
-    "timeDay": 4343,
-    "timeWeek": 4191,
+    "uptimeYear": "44.79%",
+    "time": 4278,
+    "timeDay": 4170,
+    "timeWeek": 4333,
     "timeMonth": 4002,
-    "timeYear": 4279,
+    "timeYear": 4278,
     "dailyMinutesDown": {
       "2023-06-13": 85,
       "2023-05-25": 26,
@@ -602,8 +602,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   },
   {
@@ -612,14 +611,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "88.29%",
+    "uptime": "88.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.31%",
-    "time": 436,
-    "timeDay": 158,
-    "timeWeek": 473,
+    "time": 437,
+    "timeDay": 394,
+    "timeWeek": 488,
     "timeMonth": 485,
     "timeYear": 465,
     "dailyMinutesDown": {
