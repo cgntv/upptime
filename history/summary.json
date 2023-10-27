@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "16.87%",
+    "uptime": "16.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 62,
+      "2023-10-27": 294,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -389,11 +389,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "50.34%",
+    "uptime": "50.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "68.07%",
+    "uptimeYear": "68.11%",
     "time": 4187,
     "timeDay": 2107,
     "timeWeek": 3362,
@@ -526,9 +526,9 @@
     "url": "https://lavatourmerapi-adv.online/",
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
-    "status": "up",
-    "uptime": "89.46%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.47%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -537,6 +537,8 @@
     "timeWeek": 263,
     "timeMonth": 450,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   }
 ]
