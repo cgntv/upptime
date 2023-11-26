@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "16.31%",
+    "uptime": "16.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-25": 63,
+      "2023-11-26": 70,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -379,8 +380,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "51.97%",
+    "uptime": "52.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.01%",
-    "time": 4105,
-    "timeDay": 3991,
-    "timeWeek": 3501,
-    "timeMonth": 3345,
-    "timeYear": 4105,
+    "uptimeYear": "76.29%",
+    "time": 4104,
+    "timeDay": 3859,
+    "timeWeek": 3516,
+    "timeMonth": 3403,
+    "timeYear": 4104,
     "dailyMinutesDown": {
       "2023-10-03": 43,
       "2023-06-13": 85,
@@ -488,8 +488,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -498,15 +497,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "89.81%",
+    "uptime": "89.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 178,
-    "timeWeek": 155,
-    "timeMonth": 237,
+    "time": 451,
+    "timeDay": 141,
+    "timeWeek": 154,
+    "timeMonth": 229,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2023-10-27": 18
