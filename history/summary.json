@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "15.94%",
+    "uptime": "15.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-15": 880,
+      "2023-12-16": 66,
+      "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -379,8 +380,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "53.06%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "81.64%",
-    "time": 4084,
-    "timeDay": 5470,
-    "timeWeek": 3953,
-    "timeMonth": 3772,
-    "timeYear": 4084,
+    "uptime": "53.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "81.76%",
+    "time": 4078,
+    "timeDay": 5468,
+    "timeWeek": 3844,
+    "timeMonth": 3722,
+    "timeYear": 4078,
     "dailyMinutesDown": {
-      "2023-12-15": 12,
       "2023-12-09": 35,
       "2023-10-03": 43,
       "2023-06-13": 85,
@@ -470,8 +469,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -485,10 +483,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 298,
-    "timeWeek": 169,
-    "timeMonth": 152,
+    "time": 438,
+    "timeDay": 75,
+    "timeWeek": 136,
+    "timeMonth": 151,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2023-10-27": 18
