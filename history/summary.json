@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "15.73%",
+    "uptime": "15.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-28": 64,
+      "2023-12-29": 55,
+      "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -379,8 +380,7 @@
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 1440
+      "2022-12-30": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "53.70%",
+    "uptime": "53.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "85.05%",
+    "uptimeYear": "85.32%",
     "time": 4075,
-    "timeDay": 4006,
-    "timeWeek": 4130,
-    "timeMonth": 3841,
+    "timeDay": 4080,
+    "timeWeek": 3481,
+    "timeMonth": 3843,
     "timeYear": 4075,
     "dailyMinutesDown": {
       "2023-12-09": 35,
@@ -456,8 +456,7 @@
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 1440
+      "2022-12-30": 1440
     }
   },
   {
@@ -466,15 +465,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "90.17%",
+    "uptime": "90.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 241,
-    "timeWeek": 219,
-    "timeMonth": 169,
+    "time": 429,
+    "timeDay": 308,
+    "timeWeek": 240,
+    "timeMonth": 177,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2023-10-27": 18
