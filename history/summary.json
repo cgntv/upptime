@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "15.51%",
+    "uptime": "15.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 68,
+      "2024-01-11": 68,
+      "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -379,8 +380,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
-      "2023-01-12": 1440,
-      "2023-01-11": 1440
+      "2023-01-12": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "54.34%",
+    "uptime": "54.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.61%",
+    "uptimeYear": "88.88%",
     "time": 4060,
-    "timeDay": 2079,
-    "timeWeek": 3724,
-    "timeMonth": 3942,
+    "timeDay": 4127,
+    "timeWeek": 3763,
+    "timeMonth": 3954,
     "timeYear": 4060,
     "dailyMinutesDown": {
       "2023-12-09": 35,
@@ -443,8 +443,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
-      "2023-01-12": 1440,
-      "2023-01-11": 1440
+      "2023-01-12": 1440
     }
   },
   {
@@ -453,16 +452,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "90.31%",
+    "uptime": "90.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 102,
-    "timeWeek": 222,
-    "timeMonth": 208,
-    "timeYear": 413,
+    "time": 426,
+    "timeDay": 116,
+    "timeWeek": 204,
+    "timeMonth": 209,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2023-10-27": 18
     }
