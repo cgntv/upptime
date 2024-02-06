@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "15.08%",
+    "uptime": "15.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 64,
+      "2024-02-06": 63,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -379,8 +380,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "55.58%",
+    "uptime": "55.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "95.72%",
-    "time": 4020,
-    "timeDay": 3961,
-    "timeWeek": 3639,
-    "timeMonth": 3572,
-    "timeYear": 4020,
+    "uptimeYear": "96.00%",
+    "time": 4021,
+    "timeDay": 4117,
+    "timeWeek": 3618,
+    "timeMonth": 3574,
+    "timeYear": 4021,
     "dailyMinutesDown": {
       "2024-01-17": 35,
       "2024-01-16": 17,
@@ -419,8 +419,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -429,16 +428,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 422,
-    "timeDay": 808,
-    "timeWeek": 357,
+    "timeDay": 297,
+    "timeWeek": 370,
     "timeMonth": 333,
-    "timeYear": 410,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2024-01-17": 35,
       "2023-10-27": 18
