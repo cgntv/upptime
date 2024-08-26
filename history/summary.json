@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "12.45%",
+    "uptime": "12.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-25": 81,
+      "2024-08-26": 76,
+      "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -379,8 +380,7 @@
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
-      "2023-08-28": 1440,
-      "2023-08-27": 1440
+      "2023-08-28": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "63.21%",
+    "uptime": "63.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 3766,
-    "timeDay": 3641,
-    "timeWeek": 3347,
-    "timeMonth": 3456,
-    "timeYear": 3599,
+    "time": 3763,
+    "timeDay": 2452,
+    "timeWeek": 3466,
+    "timeMonth": 3404,
+    "timeYear": 3595,
     "dailyMinutesDown": {
       "2024-02-21": 94,
       "2024-02-20": 1440,
@@ -420,11 +420,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 379,
-    "timeDay": 398,
-    "timeWeek": 248,
-    "timeMonth": 263,
-    "timeYear": 344,
+    "time": 380,
+    "timeDay": 383,
+    "timeWeek": 238,
+    "timeMonth": 270,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2024-01-17": 35,
       "2023-10-27": 18
