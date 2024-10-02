@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "12.07%",
+    "uptime": "12.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-01": 98,
+      "2024-10-02": 82,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -379,8 +380,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440
+      "2023-10-04": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "64.35%",
+    "uptime": "64.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.60%",
-    "time": 3696,
-    "timeDay": 3005,
-    "timeWeek": 3286,
-    "timeMonth": 3975,
-    "timeYear": 3549,
+    "time": 3694,
+    "timeDay": 4028,
+    "timeWeek": 3372,
+    "timeMonth": 3976,
+    "timeYear": 3548,
     "dailyMinutesDown": {
       "2024-09-17": 19,
       "2024-02-21": 94,
@@ -406,8 +406,7 @@
       "2024-02-19": 434,
       "2024-01-17": 35,
       "2024-01-16": 17,
-      "2023-12-09": 35,
-      "2023-10-03": 43
+      "2023-12-09": 35
     }
   },
   {
@@ -416,18 +415,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "down",
-    "uptime": "89.59%",
+    "uptime": "89.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.61%",
+    "uptimeYear": "90.34%",
     "time": 376,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-10-01": 98,
+      "2024-10-02": 82,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
