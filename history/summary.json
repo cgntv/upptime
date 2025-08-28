@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 1311,
+      "2025-08-28": 99,
+      "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -379,8 +380,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   },
   {
@@ -390,15 +390,15 @@
     "slug": "sewa-jas-jogja",
     "status": "up",
     "uptime": "72.05%",
-    "uptimeDay": "87.15%",
+    "uptimeDay": "94.31%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.90%",
-    "time": 3452,
-    "timeDay": 3864,
-    "timeWeek": 3441,
-    "timeMonth": 3254,
-    "timeYear": 3452,
+    "time": 3457,
+    "timeDay": 3528,
+    "timeWeek": 3434,
+    "timeMonth": 3292,
+    "timeYear": 3457,
     "dailyMinutesDown": {
       "2025-08-27": 180,
       "2025-08-26": 4,
@@ -420,17 +420,17 @@
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
     "uptime": "86.77%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "69.40%",
-    "time": 854,
-    "timeDay": 1736,
-    "timeWeek": 1793,
-    "timeMonth": 1136,
-    "timeYear": 1092,
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "69.45%",
+    "time": 867,
+    "timeDay": 2334,
+    "timeWeek": 1761,
+    "timeMonth": 1233,
+    "timeYear": 1106,
     "dailyMinutesDown": {
-      "2025-08-27": 191,
+      "2025-08-27": 179,
       "2025-08-26": 4,
       "2025-08-25": 39,
       "2025-08-15": 17,
@@ -548,8 +548,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   }
 ]
