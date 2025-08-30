@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-29": 713,
+      "2025-08-30": 86,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -379,8 +380,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -389,18 +389,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "72.08%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "99.06%",
+    "uptime": "72.09%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.89%",
     "time": 3463,
-    "timeDay": 2985,
-    "timeWeek": 3341,
-    "timeMonth": 3327,
-    "timeYear": 3454,
+    "timeDay": 3566,
+    "timeWeek": 3354,
+    "timeMonth": 3364,
+    "timeYear": 3455,
     "dailyMinutesDown": {
-      "2025-08-29": 28,
+      "2025-08-29": 16,
       "2025-08-28": 31,
       "2025-08-27": 180,
       "2025-08-26": 4,
@@ -421,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "86.78%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "69.83%",
-    "time": 873,
-    "timeDay": 750,
-    "timeWeek": 1587,
-    "timeMonth": 1193,
-    "timeYear": 1100,
+    "uptime": "86.79%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "69.99%",
+    "time": 886,
+    "timeDay": 2347,
+    "timeWeek": 1855,
+    "timeMonth": 1297,
+    "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-08-29": 27,
+      "2025-08-29": 15,
       "2025-08-28": 30,
       "2025-08-27": 179,
       "2025-08-26": 4,
@@ -550,8 +550,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   }
 ]
