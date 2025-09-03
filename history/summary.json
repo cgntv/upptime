@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-02": 1178,
+      "2025-09-03": 86,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -379,8 +380,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   },
   {
@@ -390,17 +390,17 @@
     "slug": "sewa-jas-jogja",
     "status": "up",
     "uptime": "72.15%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "98.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.87%",
-    "time": 3459,
-    "timeDay": 3567,
-    "timeWeek": 3561,
-    "timeMonth": 3336,
-    "timeYear": 3456,
+    "time": 3453,
+    "timeDay": 3017,
+    "timeWeek": 3391,
+    "timeMonth": 3350,
+    "timeYear": 3451,
     "dailyMinutesDown": {
-      "2025-09-02": 34,
+      "2025-09-02": 21,
       "2025-09-01": 26,
       "2025-08-30": 65,
       "2025-08-29": 16,
@@ -424,18 +424,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "86.81%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "70.99%",
-    "time": 832,
-    "timeDay": 720,
-    "timeWeek": 1761,
-    "timeMonth": 1386,
-    "timeYear": 1133,
+    "uptime": "86.82%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "71.06%",
+    "time": 831,
+    "timeDay": 820,
+    "timeWeek": 1756,
+    "timeMonth": 1389,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-09-02": 34,
+      "2025-09-02": 21,
       "2025-09-01": 26,
       "2025-08-30": 65,
       "2025-08-29": 15,
@@ -552,8 +552,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   }
 ]
