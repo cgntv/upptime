@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "9.40%",
+    "uptime": "9.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 86,
+      "2025-09-07": 101,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -379,8 +380,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "72.21%",
+    "uptime": "72.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.86%",
     "time": 3457,
-    "timeDay": 4449,
-    "timeWeek": 3550,
-    "timeMonth": 3384,
-    "timeYear": 3455,
+    "timeDay": 4057,
+    "timeWeek": 3730,
+    "timeMonth": 3397,
+    "timeYear": 3460,
     "dailyMinutesDown": {
       "2025-09-03": 41,
       "2025-09-02": 21,
@@ -425,16 +425,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "86.84%",
+    "uptime": "86.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.49%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "71.87%",
+    "uptimeYear": "72.15%",
     "time": 836,
-    "timeDay": 327,
-    "timeWeek": 1202,
-    "timeMonth": 1350,
-    "timeYear": 1121,
+    "timeDay": 661,
+    "timeWeek": 1297,
+    "timeMonth": 1346,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-09-03": 41,
       "2025-09-02": 21,
@@ -550,8 +550,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   }
 ]
