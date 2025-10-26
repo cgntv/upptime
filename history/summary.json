@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 1376,
+      "2025-10-26": 105,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -379,8 +380,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   },
   {
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "73.07%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
+    "uptime": "73.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.84%",
-    "time": 3456,
-    "timeDay": 3438,
-    "timeWeek": 4125,
-    "timeMonth": 3347,
-    "timeYear": 3392,
+    "time": 3458,
+    "timeDay": 3439,
+    "timeWeek": 4243,
+    "timeMonth": 3334,
+    "timeYear": 3390,
     "dailyMinutesDown": {
-      "2025-10-25": 12,
       "2025-10-20": 146,
       "2025-09-03": 41,
       "2025-09-02": 21,
@@ -426,17 +425,16 @@
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
     "uptime": "87.25%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "85.54%",
-    "time": 906,
-    "timeDay": 1905,
-    "timeWeek": 1681,
-    "timeMonth": 1082,
-    "timeYear": 1114,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "85.57%",
+    "time": 907,
+    "timeDay": 554,
+    "timeWeek": 1687,
+    "timeMonth": 1079,
+    "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-10-25": 12,
       "2025-10-20": 30,
       "2025-09-03": 41,
       "2025-09-02": 21,
@@ -503,8 +501,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   }
 ]
