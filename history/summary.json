@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "9.06%",
+    "uptime": "9.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 1357,
+      "2025-11-03": 107,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -379,8 +380,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.84%",
-    "time": 3461,
-    "timeDay": 2563,
-    "timeWeek": 3050,
-    "timeMonth": 3386,
-    "timeYear": 3383,
+    "time": 3457,
+    "timeDay": 1502,
+    "timeWeek": 2680,
+    "timeMonth": 3327,
+    "timeYear": 3377,
     "dailyMinutesDown": {
       "2025-11-02": 16,
       "2025-10-20": 146,
@@ -429,12 +429,12 @@
     "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "87.72%",
+    "uptimeYear": "87.76%",
     "time": 921,
-    "timeDay": 2456,
-    "timeWeek": 1167,
-    "timeMonth": 1181,
-    "timeYear": 1113,
+    "timeDay": 2196,
+    "timeWeek": 1160,
+    "timeMonth": 1163,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2025-11-02": 16,
       "2025-10-20": 30,
@@ -495,8 +495,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   }
 ]
