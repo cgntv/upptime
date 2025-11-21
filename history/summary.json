@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "8.96%",
+    "uptime": "8.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-20": 102,
+      "2025-11-21": 103,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -379,8 +380,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "73.49%",
+    "uptime": "73.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
-    "time": 3443,
-    "timeDay": 3385,
-    "timeWeek": 3436,
-    "timeMonth": 3409,
-    "timeYear": 3365,
+    "time": 3438,
+    "timeDay": 1269,
+    "timeWeek": 3438,
+    "timeMonth": 3128,
+    "timeYear": 3363,
     "dailyMinutesDown": {
       "2025-11-02": 16,
       "2025-10-20": 146,
@@ -425,16 +425,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "87.45%",
+    "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "92.42%",
-    "time": 974,
-    "timeDay": 369,
-    "timeWeek": 1161,
-    "timeMonth": 1327,
-    "timeYear": 1130,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "92.69%",
+    "time": 975,
+    "timeDay": 616,
+    "timeWeek": 1164,
+    "timeMonth": 1281,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2025-11-02": 16,
       "2025-10-20": 30,
@@ -477,8 +477,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
-      "2024-11-22": 1440,
-      "2024-11-21": 1440
+      "2024-11-22": 1440
     }
   }
 ]
