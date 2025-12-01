@@ -8,7 +8,7 @@
     "uptime": "8.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-30": 115,
+      "2025-12-01": 123,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -379,8 +380,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "73.66%",
+    "uptime": "73.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.83%",
     "time": 3435,
-    "timeDay": 3797,
-    "timeWeek": 3334,
-    "timeMonth": 3009,
-    "timeYear": 3357,
+    "timeDay": 3642,
+    "timeWeek": 3312,
+    "timeMonth": 3043,
+    "timeYear": 3355,
     "dailyMinutesDown": {
       "2025-11-24": 44,
       "2025-11-02": 16,
@@ -426,16 +426,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "87.53%",
+    "uptime": "87.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "95.16%",
-    "time": 996,
-    "timeDay": 1262,
-    "timeWeek": 1128,
-    "timeMonth": 1325,
-    "timeYear": 1128,
+    "uptimeYear": "95.43%",
+    "time": 997,
+    "timeDay": 579,
+    "timeWeek": 1139,
+    "timeMonth": 1337,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2025-11-02": 16,
       "2025-10-20": 30,
@@ -468,8 +468,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   }
 ]
