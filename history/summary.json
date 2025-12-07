@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 102,
+      "2025-12-07": 116,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -379,8 +380,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "73.75%",
-    "uptimeDay": "97.69%",
+    "uptime": "73.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 3436,
-    "timeDay": 2928,
-    "timeWeek": 3779,
-    "timeMonth": 3277,
-    "timeYear": 3357,
+    "time": 3434,
+    "timeDay": 1204,
+    "timeWeek": 3488,
+    "timeMonth": 3258,
+    "timeYear": 3355,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-11-24": 44,
@@ -427,15 +427,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "up",
-    "uptime": "87.57%",
+    "uptime": "87.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.80%",
-    "time": 1004,
-    "timeDay": 718,
-    "timeWeek": 903,
-    "timeMonth": 1283,
+    "uptimeYear": "97.08%",
+    "time": 1006,
+    "timeDay": 840,
+    "timeWeek": 791,
+    "timeMonth": 1289,
     "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-11-02": 16,
@@ -463,8 +463,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   }
 ]
