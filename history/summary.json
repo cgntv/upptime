@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denus-capen-api.client.cognitive.id.ico",
     "slug": "capen-tj-makmur-api",
     "status": "down",
-    "uptime": "8.85%",
+    "uptime": "8.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 384,
+      "2025-12-11": 111,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -379,8 +380,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "73.82%",
+    "uptime": "73.83%",
     "uptimeDay": "97.73%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
     "time": 3428,
-    "timeDay": 2220,
-    "timeWeek": 3112,
-    "timeMonth": 3229,
-    "timeYear": 3353,
+    "timeDay": 2017,
+    "timeWeek": 2860,
+    "timeMonth": 3195,
+    "timeYear": 3347,
     "dailyMinutesDown": {
       "2025-12-10": 33,
       "2025-12-05": 33,
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lavatourmerapi-adv.online.ico",
     "slug": "lava-tour-merapi-adventure",
     "status": "down",
-    "uptime": "87.46%",
+    "uptime": "87.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.17%",
-    "uptimeMonth": "91.99%",
+    "uptimeWeek": "53.60%",
+    "uptimeMonth": "89.32%",
     "uptimeYear": "97.28%",
-    "time": 1011,
+    "time": 1013,
     "timeDay": 0,
-    "timeWeek": 786,
-    "timeMonth": 1117,
+    "timeWeek": 843,
+    "timeMonth": 1133,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-12-10": 384,
+      "2025-12-11": 111,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 246,
@@ -464,8 +465,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   }
 ]
