@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 126,
+      "2026-03-08": 144,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -379,8 +380,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sewajasjogja.com.ico",
     "slug": "sewa-jas-jogja",
     "status": "up",
-    "uptime": "75.14%",
+    "uptime": "75.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 3377,
-    "timeDay": 1676,
-    "timeWeek": 2380,
-    "timeMonth": 3317,
+    "time": 3379,
+    "timeDay": 3723,
+    "timeWeek": 2692,
+    "timeMonth": 3315,
     "timeYear": 3341,
     "dailyMinutesDown": {
       "2026-01-03": 17,
@@ -436,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
-    "time": 1111,
-    "timeDay": 332,
-    "timeWeek": 1747,
-    "timeMonth": 1019,
-    "timeYear": 1121,
+    "time": 1110,
+    "timeDay": 577,
+    "timeWeek": 1765,
+    "timeMonth": 995,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2026-01-03": 17,
       "2025-12-23": 29,
